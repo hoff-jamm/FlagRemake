@@ -22,11 +22,11 @@
 }
 
 .yellow {
-	width: 210px;
+
+	width: 600px;
 	height: 400px;
-	background: #fcec02ff;
-	left: 235px;
 	position: absolute;
+	background: #fcec02ff;
 }
 
 .red {
