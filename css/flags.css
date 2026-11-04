@@ -1,9 +1,10 @@
-.flags {
-	width: 600px;
-	height: 400px;
-	position: absolute;
-	border: blue solid 10px;
-}
+/*.flags {*/
+/*	margin: 30px;*/
+/*	width: 600px;*/
+/*	height: 400px;*/
+/*	position: absolute;*/
+/*	border: black solid 1px;*/
+/*}*/
 .flag {
 	margin: 30px;
 	width: 600px;
@@ -16,14 +17,14 @@
 .black {
 	width: 200px;
 	height: 400px;
-	background: black;
+	background: #252122ff;
 	position: absolute;
 }
 
 .yellow {
 	width: 210px;
 	height: 400px;
-	background: gold;
+	background: #fcec02ff;
 	left: 235px;
 	position: absolute;
 }
@@ -31,7 +32,7 @@
 .red {
 	width: 200px;
 	height: 400px;
-	background: #ff2c2c;
+	background: #e71d29ff;
 	float: right;
 	position: relative;
 }
@@ -39,13 +40,13 @@
 /* Flag of Japan */
 
 .dot {
-    width: 250px;
-    height: 250px;
-    background: #CC0A0A;
+    width: 237.5px;
+    height: 237.5px;
+    background: #bc002cff;
     border-radius: 100%;
 	position: relative;
-	left: 175px;
-	top: 75px;
+	left: 181.5px;
+	top: 79.5px;
 }
 
 /* Flag of Trinidad and Tobago */
@@ -53,33 +54,35 @@
 .back {
 	width: 600px;
 	height: 400px;
-	position: absolute;
-	top: 895px;
-	background: #de0a26;
+	position: relative;
+	background: #da1a35ff;
 }
 
 .bar {
-    border: 20px ghostwhite solid;
-	background: black;
+    border: 20.5px #ffffffff solid;
+	background: #000000ff;
     width: 800px;
-    height: 100px;
-    transform: rotate(45deg);
+    height: 88px;
+    transform: rotate(44deg);
 	position: relative;
-	top: 150px;
-	left: -100px;
+	top: -250px;
+	left: -106.5px;
 }
 
 /*flag references*/
 
 /*.belgium {*/
 /*	left: 660px;*/
-/*	top: 25px;*/
+/*	top: 0px;*/
+/*	opacity: 50%;*/
 /*}*/
 /*.japan {*/
 /*	left: 660px;*/
-/*	top: 455px;*/
+/*	top: 430px;*/
+/*	opacity: 50%;*/
 /*}*/
 /*.TandT {*/
 /*	left: 660px;*/
-/*	top: 885px;*/
+/*	top: 865px;*/
+/*	opacity: 50%;*/
 /*}*/
